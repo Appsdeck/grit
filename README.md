@@ -1,3 +1,8 @@
+PATCH Applied
+=============
+
+https://github.com/mojombo/grit/pulls/152
+
 Grit
 ====
 
