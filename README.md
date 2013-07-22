@@ -1,7 +1,8 @@
 PATCH Applied
 =============
 
-https://github.com/mojombo/grit/pulls/152
+https://github.com/mojombo/grit/pull/152
+https://github.com/mojombo/grit/pull/156
 
 Grit
 ====
